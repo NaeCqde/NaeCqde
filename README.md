@@ -44,7 +44,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="42" height="42" />
         </a>
     </p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naecqde&show_icons=true&locale=en&layout=compact" alt="most used languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeCqde&layout=compact&hide=javascript,html" alt="most used languages graph" />
 </p>
 
 <h2>⚡️ Where to find me</h2>
