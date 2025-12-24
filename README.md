@@ -34,9 +34,6 @@
         <a target="blank" href="https://workers.cloudflare.com/" style="display: inline-block;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original.svg" alt="cloudflare workers" width="42" height="42" />
         </a>
-        <a target="blank" href="https://svelte.jp/" style="display: inline-block;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="42" height="42" />
-        </a>
         <a target="blank" href="https://pptr.dev/" style="display: inline-block;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="42" height="42" />
         </a>
@@ -49,7 +46,7 @@
 
 <h2>⚡️ Where to find me</h2>
 <p>
-    <a target="blank" href="https://x.com/naecqde">
+    <a target="blank" href="https://x.com/NaeCqde">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="なえこーど on X or Twitter" height="30" width="40" />
     </a>
     <a target="blank" href="https://okazuri.nae.quest/">
