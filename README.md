@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=naecqde&label=Profile%20views&color=0e75b6&style=flat" alt="naecqde" />
+<img src="https://komarev.com/ghpvc/?username=naecqde&label=Profile%20views&color=0e75b6&style=flat" alt="view counter" />
 <h1 align="center">なえこーど / Brown_cat886</h1>
 
 <h3 align="center">
@@ -44,5 +44,5 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="なえこーど on X or Twitter" height="30" width="40" />
     </a>
 </p>
-
-<footer>➇➊0⃣ FAN</footer>
+<br>
+<footer>都会志願者</footer>
