@@ -45,4 +45,4 @@
     </a>
 </p>
 <br>
-<footer>都会志願者</footer>
+<footer>都会に憧れてる田舎者</footer>
